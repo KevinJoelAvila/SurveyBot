@@ -1,0 +1,20 @@
+{
+  "name": "bot-survey",
+  "version": "1.0.0",
+  "description": "Simple Survey Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin.AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinJoelAvila/Bot-Survey/issues"
+  },
+  "homepage": "https://github.com/KevinJoelAvila/Bot-Survey#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "random-unicode-emoji": "^1.0.5"
+  }
+}
